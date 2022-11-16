@@ -7,3 +7,8 @@ We can create "enumerated Lists" (numbered Listed)! Three things we'll look at:
 1. How to use git
 2. How to use markdown for READMEs and the WiKi
 3. How to use HTML/CSS in. Jekyll for pages
+We can aslo make bulleted Lists! A few languages that we can discuss:
+- C/C++
+-  Fortran
+-  **Python**
+-  Julia
